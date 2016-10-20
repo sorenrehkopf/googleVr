@@ -1,7 +1,8 @@
 div{
 	height:500px;
-	width:700px;
+	width:1000px;
 	margin:auto;
+	position:relative;
 }	
 /*canvas{
 	max-width:100%;
